@@ -21,5 +21,5 @@ An example output of the code is given below,
 </p>
 
 <p align="center">
-  <img src="https://github.com/artykov1511/panorama-stitching/blob/main/images/out3.jpg" width="400" title="hover text">
+  <img src="https://github.com/artykov1511/panorama-stitching/blob/main/images/out.jpg" width="400" title="hover text">
 </p>
