@@ -10,3 +10,7 @@ This project is about homography estimation with standard normalized DLT algorit
 # Usage
 
 You only need to specify image paths inside the main function and run the last code block.
+
+# Result
+
+An example output of the code is given below,
