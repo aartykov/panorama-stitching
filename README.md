@@ -1,6 +1,6 @@
 # panorama-stitching
 
-This project is about homography estimation with standard normalized DLT algorithm by employing RANSAC. Afterwards, panorama stitching is conducted by using two images.
+This project is about homography estimation with standard normalized DLT algorithm and RANSAC. After homography estimation, panorama stitching is conducted by using two images.
 
 # Dependencies
 
