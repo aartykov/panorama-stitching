@@ -14,3 +14,8 @@ You only need to specify image paths inside the main function and run the last c
 # Result
 
 An example output of the code is given below,
+
+<p align="center">
+  <img src="https://github.com/artykov1511/panorama-stitching/images/35.jpg" width="400" title="hover text">
+  <img src="https://github.com/artykov1511/panorama-stitching/images/36.jpg" width="400" title="hover text">
+</p>
